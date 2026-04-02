@@ -1,4 +1,4 @@
-# linux-server-segurity
+# linux-server-security
 implementacion de un servidor linux seguro en una maquina virtual, configurando acceso remoto medianto SSH y aplicando medidas basicas de seguridad.
 ##  Evidencia
 
