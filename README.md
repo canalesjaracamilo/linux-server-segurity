@@ -10,3 +10,9 @@ implementacion de un servidor linux seguro en una maquina virtual, configurando 
 
 ###  Dirección IP
 ![IP](ip.png)
+
+## Seguridad aplicada
+- Uso de autenticación por contraseña
+- Configuración de red en modo bridge
+- Servicio SSH habilitado y persistente
+- Acceso remoto controlado
